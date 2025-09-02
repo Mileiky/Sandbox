@@ -1,2 +1,2 @@
-# saiseq
+# SaiSeq
 agenic scRNA-seq anaylsis
